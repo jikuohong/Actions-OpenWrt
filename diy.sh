@@ -7,3 +7,5 @@
 #=================================================
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+git clone https://github.com/hong0980/luci-app-passwall.git
+git clone https://github.com/jikuohong/luci-app-serverchan.git
